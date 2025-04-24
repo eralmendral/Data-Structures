@@ -26,3 +26,9 @@ Don't worry about memorizing this stuff. In particular, don't worry about memori
 
 Instead, focus on understanding how DSA works at the moment. You should understand what your code is doing and why - but that doesn't mean you need to memorize the code itself.
 
+
+<hr />
+
+an "algorithm" is just a set of instructions that can be carried out to solve a problem.
+
+It's not anymore magical than that.
