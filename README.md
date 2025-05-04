@@ -34,5 +34,29 @@ an "algorithm" is just a set of instructions that can be carried out to solve a 
 It's not anymore magical than that.
 
 
+<hr />
+
+### Exponents
+- How many times a number is multipled to itself.
+- 2 ^ 3 = 8
+- 2 * 2 * 2 = 8
+- exponent = 3
+
+### Logarithms
+- Inverse of exponents.
+- What number to multiply a number to itself?
+- 2 ^ 3 = 8
+- log2(8) = 3
+  
+
+### Factorials
+- Product of all integers less than & equal to **n**.
+  
+
+
+<hr />
+
+
+
 
 
