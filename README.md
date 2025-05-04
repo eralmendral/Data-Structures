@@ -60,6 +60,8 @@ It's not anymore magical than that.
 
 ## Big O Notation
 
+- [Watch Video Here](https://storage.googleapis.com/qvault-webapp-dynamic-assets/lesson_videos/big-o-notation-v1-23-00-x264.mp4)
+
 - There are a lot of existing algorithms; some are fast and some are slow. Some use lots of memory. It can be hard to decide which algorithm is the best to solve a particular problem.
 
 
